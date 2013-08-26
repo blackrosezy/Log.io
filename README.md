@@ -1,4 +1,4 @@
-Log.io - Real-time log monitoring in your browser
+Log.io-morz - Real-time log monitoring in your browser
 =================================================
 
 Powered by [node.js](http://nodejs.org) + [socket.io](http://socket.io)
@@ -15,7 +15,7 @@ Users browse streams and nodes in the web UI, and activate (stream, node) pairs 
 
 1) Install via npm
 
-    npm install -g log.io --user "ubuntu"
+    npm install -g log.io-morz --user "ubuntu"
 
 2) Run server
 

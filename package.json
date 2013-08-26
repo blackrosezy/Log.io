@@ -1,7 +1,7 @@
 {
-  "name": "log.io",
+  "name": "log.io-morz",
   "description": "Realtime log monitoring in your browser",
-  "version": "0.3.3",
+  "version": "0.1.0",
   "homepage": "http://logio.org",
   "keywords": ["logs", "monitoring", "realtime", "socket.io", "node.js", "ajax"],
   "author": "Mike Smathers <msmathers@narrativescience.com>",
