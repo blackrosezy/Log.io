@@ -1,4 +1,4 @@
-Log.io-morz - Real-time log monitoring in your browser
+Log.io - Real-time log monitoring in your browser
 =================================================
 
 Powered by [node.js](http://nodejs.org) + [socket.io](http://socket.io)
